@@ -7,7 +7,7 @@ My Portfolio
 
 ### Wiki
 
-https://github.com/webdevkeenan/product_landing-page/wiki 
+https://github.com/webdevkeenan/portfolio/wiki
 
 ## Tools Used: 
 + [Visual Studio Code](https://code.visualstudio.com/)
