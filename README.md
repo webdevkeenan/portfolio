@@ -16,10 +16,15 @@ https://github.com/webdevkeenan/portfolio/wiki
 
 
 ## Skills Displayed: 
-+ 
++ Flexbox
++ CSS Grid
++ Transition
++ Responsive Design
 
 
 ### v1.0 [Portfolio]
+
+![Screenshot 2023-09-07 at 19-45-02 Webdevkeenan Freelance Developer](https://github.com/webdevkeenan/portfolio/assets/42125735/265651ba-ea16-4443-809d-93895806b6e8)
 
 
 ## Image Credits (Unsplash):
