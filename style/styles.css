@@ -171,6 +171,9 @@ nav {
     height: 80dvh;
     padding: 0 2rem;
     background: #303841;
+    background-image: url(../img/frank-mckenna-OD9EOzfSOh0-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
 }
 
 .contact-links {
@@ -184,7 +187,7 @@ nav {
 
 .contact-details {
     font-size: 2.4rem;
-    text-shadow: 2px 2px 1px #1f1f1f;
+    text-shadow: 2px 2px 1px white;
     transition: transform 0.3s ease-out;
 }
 
@@ -260,10 +263,16 @@ h1, h2 {
 
 .contact-section-header > h2 {
     font-size: 6rem;
+    color: #303841;
 }
 
 .contact-section-header > p {
     font-style: italic;
+    color: #303841;
+}
+
+.contact-details {
+    color: #303841;
 }
 
 /* Footer */
