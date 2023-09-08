@@ -358,6 +358,15 @@ footer i {
     }
 }
 
+@media (max-width: 400px) {
+
+#contact {
+    justify-content: space-between;
+    align-items: flex-end;
+    color: white;
+}
+
+}
 
 /* Objective: Build an app that is functionally similar to https://personal-portfolio.freecodecamp.rocks
 
