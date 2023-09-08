@@ -244,7 +244,8 @@ h1, h2 {
     font-size: 3rem;
     font-weight: 200;
     font-style: italic;
-    color: #303841;
+    color: white;
+    text-shadow: 2px 2px 2px black;
 }
 
 
