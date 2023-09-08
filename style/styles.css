@@ -358,7 +358,7 @@ footer i {
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 460px) {
 
 #contact {
     justify-content: space-between;
